@@ -2,7 +2,7 @@
 
 kira-plastinina
 
-Advertising and Kira Plastinina Dataset Analysis, 19/7/2020
+Advertising and Kira Plastinina Dataset Analysis
 
 By Maurice Kimanzi 11/06/2020
 
